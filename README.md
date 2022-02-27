@@ -24,11 +24,10 @@
 <img align="left" alt="CSS3" width="26px" src="./img/css-3.png" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/js.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./img/git-48.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
 <img align="left" alt="Ubuntu" width="26px" src="./img/ubuntu.png" />
 
 
-<br />
 <br />
 
 ***
