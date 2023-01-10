@@ -1,11 +1,11 @@
-# Hi there, I'm Marko 🤙 💻
+# Hi there, I'm Marko 🧭 🤍
 
 ## I'm a Student at [Fpmoz][fakultet]
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Get a job 
-- ⚡ Hobi: Photography and video editing 📷, Runnning 🏃‍♂️, Cooking 🍣
+- 🥅 2023. Goals: Get a job 
+- ⚡ Hobi: Photography 📷, Runnning 🏃‍♂️, Cooking 🍣, Reading 📘
 
 
 ### Connect with me:
