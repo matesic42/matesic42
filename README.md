@@ -36,7 +36,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matesic99&show_icons=true&theme=cobalt2)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matesic42&show_icons=true&theme=cobalt2)
 </details>
 
 
