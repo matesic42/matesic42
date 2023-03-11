@@ -24,7 +24,12 @@
 <img align="left" alt="CSS3" width="26px" src="./img/css.png" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/js.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
+
+<img align="left" alt="React" width="26px" src="./img/atom.png" style="padding-right:10px;" />
+
+<img align="left" alt="git" width="26px" src="./img/git.png" style="padding-right:10px;" />
+<img align="left" alt="bash" width="26px" src="./img/gnu-bash.png" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="./img/linux.png" style="padding-right:10px;" />
 
 
 
