@@ -29,11 +29,11 @@
 <img align="left" alt="Bash" width="26px" src="./img/gnu-bash.png" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="26px" src="./img/linux.png" style="padding-right:10px;" />
 
-
 <br />
 
-<img src="https://tryhackme.com/badge/165522" alt="TryHackMe badge" />
 
+#### TryHackMe
+ <img src="https://tryhackme-badges.s3.amazonaws.com/m4ke99.png" alt="TryHackMe">
 </br>
 
 
