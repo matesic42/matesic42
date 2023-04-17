@@ -31,9 +31,7 @@
 
 <br />
 <br />
-
-
- <img src="./img/m4ke99.png"  width="150" height="100" alt="TryHackMe">
+ <img src="./img/m4ke99.png"  width="450" height="100" alt="TryHackMe">
 </br>
 
 
