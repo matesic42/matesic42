@@ -30,9 +30,20 @@
 <img align="left" alt="Linux" width="26px" src="./img/linux.png" style="padding-right:10px;" />
 
 <br />
-<br />
- <img src="./img/m4ke99.png"  width="450" height="100" alt="TryHackMe">
+
+
+
+
 </br>
+***
+
+<details>
+
+  <summary>:zap: TryHackMe Stats</summary>
+
+![Tryhackme](./img/m4ke99.png)
+</details>
+
 
 
 ***
