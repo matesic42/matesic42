@@ -30,9 +30,10 @@
 <img align="left" alt="Linux" width="26px" src="./img/linux.png" style="padding-right:10px;" />
 
 <br />
+<br />
 
 
- <img src="./img/m4ke99.png"  width="350" height="200" alt="TryHackMe">
+ <img src="./img/m4ke99.png"  width="150" height="100" alt="TryHackMe">
 </br>
 
 
