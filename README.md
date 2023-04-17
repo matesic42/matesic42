@@ -32,7 +32,7 @@
 <br />
 
 
- <img src="https://tryhackme-badges.s3.amazonaws.com/m4ke99.png" alt="TryHackMe">
+ <img src="./img/m4ke99.png"  width="350" height="200" alt="TryHackMe">
 </br>
 
 
