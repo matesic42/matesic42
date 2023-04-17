@@ -3,7 +3,7 @@
 ## I'm a Student at [Fpmoz][fakultet]
 
 - 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
+- 🤝🏻 I’m looking to collaborate with other content creators
 - 🥅 2023. Goals: Get a job 
 - ⚡ Hobi: Photography 📷, Runnning 🏃‍♂️, Cooking 🍣, Reading 📘
 
@@ -23,6 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="./img/css-3.png" style="padding-right:10px;" />
 <img align="left" alt="Sass" width="26px" src="./img/sass.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="./img/js.png" style="padding-right:10px;" />
+<img align="left" alt="Typescript" width="26px" src="./img/typescript.png" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="./img/atom.png" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="./img/gnu-bash.png" style="padding-right:10px;" />
@@ -30,6 +31,11 @@
 
 
 <br />
+
+<img src="https://tryhackme.com/badge/165522" alt="TryHackMe badge" />
+
+</br>
+
 
 ***
 
