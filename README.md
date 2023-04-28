@@ -10,24 +10,22 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Linkedin" width="24px" src="./img/linkedin.png" style="padding-right:10px;" />][linkedin]
-[<img align="left" alt="Instagram" width="24px" src="./img/instagram.png" style="padding-right:10px;" />][instagram]
-[<img align="left" alt="Twitter" width="24px" src="./img/twitter.png" style="padding-right:10px;" />][twitter]
+[<img align="left" alt="Linkedin" width="24px" src="https://skillicons.dev/icons?i=linkedin" style="padding-right:10px;" />][linkedin]
+[<img align="left" alt="Instagram" width="24px" src="https://skillicons.dev/icons?i=instagram" style="padding-right:10px;" />][instagram]
+[<img align="left" alt="Twitter" width="24px" src="https://skillicons.dev/icons?i=twitter" style="padding-right:10px;" />][twitter]
 
 </br>
 
 
-### Languages and Tools:
+<h2 align="center">Skills </h2>
 
-<img align="left" alt="HTML5" width="26px" src="./img/html.png" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="./img/css-3.png" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="./img/sass.png" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="./img/js.png" style="padding-right:10px;" />
-<img align="left" alt="Typescript" width="26px" src="./img/typescript.png" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="./img/atom.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="./img/git.png" style="padding-right:10px;" />
-<img align="left" alt="Bash" width="26px" src="./img/gnu-bash.png" style="padding-right:10px;" />
-<img align="left" alt="Linux" width="26px" src="./img/linux.png" style="padding-right:10px;" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,linux,bash,nvim" />
+  </a>
+</p>
+
+
 
 <br />
 
@@ -45,8 +43,6 @@
 </details>
 
 
-
-***
 
 <details>
 
