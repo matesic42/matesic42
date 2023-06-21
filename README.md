@@ -14,14 +14,14 @@
 [<img align="left" alt="Twitter" src="https://skillicons.dev/icons?i=twitter" />][twitter]
 
 <br />
-
+<br />
 <h2 align="center">Skills </h2>
-
-<p align="center">
+<br />
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,linux,bash,neovim" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,typescript,react,nextjs,linux,bash" />
   </a>
-</p>
+</div>
 
 <br />
 
