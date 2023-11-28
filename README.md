@@ -17,15 +17,6 @@
 
 <details>
 
-  <summary>:zap: TryHackMe Stats</summary>
-
-  ![Tryhackme](./img/m4ke99.png)
-
-
-</details>
-
-<details>
-
   <summary>:zap: GitHub Stats</summary>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matesic42&show_icons=true&theme=cobalt2)
